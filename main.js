@@ -2,7 +2,7 @@ song = "";
 
 function preload()
 {
-	song = loadSound("")	
+	song = loadSound("Post Malone, Swae Lee - Sunflower (Lyrics).mp3")	
 }
 
 scoreRightWrist = 0;
