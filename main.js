@@ -1,10 +1,14 @@
-song = "";
+song1 = "";
+song2 = "";
+
+song1_status = "";
+song2_status = "";
 
 function preload()
 {
-	song = loadSound("Post Malone, Swae Lee - Sunflower (Lyrics).mp3")	
+	song1 = loadSound("");
+	song2 = loadSound("");
 }
-
 scoreRightWrist = 0;
 scoreLeftWrist = 0;
 
