@@ -1,13 +1,10 @@
 song1 = "";
-song2 = "";
 
 song1_status = "";
-song2_status = "";
 
 function preload()
 {
-	song1 = loadSound("LANNÉ & Maria Gold - I Am Nobody.mp3");
-	song2 = loadSound("Post Malone, Swae Lee - Sunflower (Lyrics).mp3");
+	song1 = loadSound("Post Malone, Swae Lee - Sunflower (Lyrics).mp3");
 }
 scoreRightWrist = 0;
 scoreLeftWrist = 0;
